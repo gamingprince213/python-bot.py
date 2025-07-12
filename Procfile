@@ -1,3 +1,1 @@
-git add .
-git commit -m "Fix Procfile"
-git push origin main
+worker: python bot.py
